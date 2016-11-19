@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "Lambda function to process LWD Meetup sign ins",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "s3": "^4.4.0",
+    "uuid": "^3.0.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
