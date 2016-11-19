@@ -1,0 +1,26 @@
+{
+  "name": "lwd-sign-in-lambda",
+  "version": "0.0.1",
+  "description": "Lambda function to process LWD Meetup sign ins",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-webdev/lwd-sign-in-lambda.git"
+  },
+  "keywords": [
+    "lambda",
+    "sign",
+    "in"
+  ],
+  "author": "Eric McKay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learn-webdev/lwd-sign-in-lambda/issues"
+  },
+  "homepage": "https://github.com/learn-webdev/lwd-sign-in-lambda#readme"
+}
